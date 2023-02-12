@@ -1,1 +1,1 @@
-# kingoststudio.gifthub.io
+# kingoststudio.github.io
